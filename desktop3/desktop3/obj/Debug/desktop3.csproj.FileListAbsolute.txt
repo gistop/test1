@@ -1,1 +1,9 @@
 c:\users\administrator\documents\visual studio 2013\Projects\desktop3\desktop3\bin\Debug\desktop3.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\desktop5\desktop3\desktop3\bin\Debug\desktop3.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\desktop5\desktop3\desktop3\bin\Debug\desktop3.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\desktop5\desktop3\desktop3\bin\Debug\desktop3.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\desktop5\desktop3\desktop3\obj\Debug\desktop3.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\desktop5\desktop3\desktop3\obj\Debug\desktop3.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\desktop5\desktop3\desktop3\obj\Debug\desktop3.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\desktop5\desktop3\desktop3\obj\Debug\desktop3.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\desktop5\desktop3\desktop3\obj\Debug\desktop3.pdb

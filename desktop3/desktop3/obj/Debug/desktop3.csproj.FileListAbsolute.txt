@@ -7,3 +7,4 @@ C:\Users\Administrator\Documents\Visual Studio 2013\Projects\desktop5\desktop3\d
 C:\Users\Administrator\Documents\Visual Studio 2013\Projects\desktop5\desktop3\desktop3\obj\Debug\desktop3.csproj.GenerateResource.Cache
 C:\Users\Administrator\Documents\Visual Studio 2013\Projects\desktop5\desktop3\desktop3\obj\Debug\desktop3.exe
 C:\Users\Administrator\Documents\Visual Studio 2013\Projects\desktop5\desktop3\desktop3\obj\Debug\desktop3.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\desktop5\desktop3\desktop3\obj\Debug\desktop3.Form1.resources
